@@ -3,3 +3,14 @@
 # Ignore specific file
 venv/lib/python3.9/site-packages/torch/lib/libtorch_cpu.dylib
 
+# Python virtual environment
+venv/
+
+# Node.js packages
+node_modules/
+
+# Compiled Python files
+*.pyc
+
+# macOS directory files
+.DS_Store

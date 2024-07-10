@@ -15,3 +15,12 @@ node_modules/
 # macOS directory files
 .DS_Store
 venv/
+
+# Include your project files explicitly
+!frontend.py
+!backend.py
+!preprocess_data.py
+!preprocessed_recipes.csv
+!IndianHealthyRecipe.csv
+!requirements.txt
+!README.md

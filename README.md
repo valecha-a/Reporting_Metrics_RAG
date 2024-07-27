@@ -91,7 +91,7 @@ Negative Rejection: Evaluates the presence of negative keywords in the descripti
 
 sh
 Copy code
-git clone https://github.com/valecha-a/Chatbot_with_RAG.git
+git clone https://github.com/valecha-a/Reporting_Metrics_RAG.git
 cd Assignmt6
 Set up a virtual environment:
 
